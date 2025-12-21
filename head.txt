@@ -1,0 +1,134 @@
+<head>
+    <title>Abuse Awareness Wiki</title>
+<style>
+body {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Abuse Awareness Wiki</title>
+</head>
+<body>
+<h1>Abuse Awareness Wiki</h1>
+<hr>
+<h3>Introduction</h3>
+<p>
+Abuse Is A Serious Issue That Affects Millions Of People Worldwide.
+</p>
+<p>
+It Can Happen In Homes, Schools, Workplaces, And Online Spaces.
+</p>
+<p>
+Abuse Is Never The Victim’s Fault.
+</p>
+<p>Awareness Illustration:</p>
+<img src="https://tse1.mm.bing.net/th/id/OIP.DHNbBHTItLeNb0x6iM-DfQHaG8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="300">
+<p><em>General Awareness Image.</em></p>
+<hr>
+<h3>What Is Abuse?</h3>
+<p>
+Abuse Refers To Harmful Behaviors Used To Control Or Hurt Another Person.
+</p>
+<p>
+These Behaviors May Be Intentional Or Repeated Over Time.
+</p>
+<p>Conceptual Representation:</p>
+<img src="https://images.squarespace-cdn.com/content/v1/5f07e64b122ca1020e14d5fe/1594609155469-HAPXP98RMI0TDAEYZFSH/05+rabbit+m+copy.jpg" width="300">
+<p><em>Visual Explanation Of Abuse.</em></p>
+<hr>
+<h3>Types Of Abuse</h3>
+<p>There Are Several Recognized Forms Of Abuse:</p>
+<ul>
+    <li>Physical Abuse – Causing Bodily Harm.</li>
+    <li>Emotional Abuse – Damaging Self-Worth.</li>
+    <li>Verbal Abuse – Using Harmful Language.</li>
+    <li>Sexual Abuse – Any Non-Consensual Sexual Act.</li>
+    <li>Neglect – Failure To Provide Basic Care.</li>
+</ul>
+<p>Diagram Showing Different Types:</p>
+<img src="https://th.bing.com/th/id/R.5fb920fa82b757ecfc60df4f2cd9b7ad?rik=iCay91ntHDL1Sg&riu=http%3a%2f%2finstagramprocessing.s3.us-east-2.amazonaws.com%2fc3%2fd9daa9a5d646638f331f3d1fcb2d4d%2fejxvzeeogyaqheg7znpo0woru57eejgcqq4kqxpjvhtpuur2_xnfatoqi_he-4og4qeveeqssopkdugxdgpxjqicnrohjsemv3c7d6k_vqc0drkif-pt42wmussxjbhltfzo11tfm0aekoncimnek2wax0c0pvbc9lo77nh0nfsl6pvses3ilhqdldkc5wfkajra1p00yld6s1e2xtxnkzg2ud41j_nlimvns&ehk=HU%2bAoBq4O7PusEAX3%2fNnMM%2bFiZ8tHiKOnPiGH9Twl0o%3d&risl=&pid=ImgRaw&r=0" width="300">
+<p><em>Types Of Abuse Explained.</em></p>
+<hr>
+<h3>Physical Abuse</h3>
+<p>
+Physical Abuse Involves Direct Bodily Harm.
+</p>
+<p>
+This May Include Hitting, Pushing, Or Restraining Someone.
+</p>
+<img src="https://www.psychiatryadvisor.com/wp-content/uploads/sites/8/2018/12/childabuseg157502084_1487023.jpg" width="300">
+<p><em>Physical Abuse Awareness Illustration.</em></p>
+<hr>
+<h3>Emotional And Verbal Abuse</h3>
+<p>
+Emotional Abuse Can Be Harder To Notice.
+</p>
+<p>
+It Includes Insults, Threats, Manipulation, And Humiliation.
+</p>
+<img src="https://i.pinimg.com/736x/b7/65/09/b76509172b165c2c304b4cdb4f9ea8db.jpg" width="300">
+<p><em>Emotional Abuse Effects.</em></p>
+<hr>
+<h3>Signs Of Abuse</h3>
+<p>Common Warning Signs May Include:</p>
+<ul>
+    <li>Sudden Changes In Behavior</li>
+    <li>Fear Around Specific Individuals</li>
+    <li>Unexplained Injuries</li>
+    <li>Withdrawal From Friends Or Family</li>
+</ul>
+<p>Warning Signs Illustration:</p>
+<img src="https://miro.medium.com/v2/resize:fit:1080/1*cdoLJQHq-s6oqkGRKFFC1g.jpeg" width="300">
+<p><em>Recognizing Abuse Signs.</em></p>
+<hr>
+<h3>Effects Of Abuse</h3>
+<p>
+Abuse Can Cause Long-Term Emotional And Physical Damage.
+</p>
+<p>
+Survivors May Experience Anxiety, Depression, Or Trauma.
+</p>
+<img src="https://i0.wp.com/hopefulpanda.com/wp-content/uploads/2022/01/Effects-of-Childhood-Abuse.png?resize=512%2C768&ssl=1" width="300">
+<p><em>Long-Term Effects Of Abuse.</em></p>
+<hr>
+<h3>How To Help Someone</h3>
+<p>
+Supporting A Victim Requires Patience And Understanding.
+</p>
+<ul>
+    <li>Listen Without Judgment</li>
+    <li>Offer Support</li>
+    <li>Encourage Professional Help</li>
+</ul>
+<img src="https://as1.ftcdn.net/v2/jpg/02/13/60/52/1000_F_213605283_T4gtojjFJGwu9VdpzJ86jI5nxMtdOBvh.jpg" width="300">
+<p><em>Helping Hands Illustration.</em></p>
+<hr>
+<h3>Seeking Help</h3>
+<p>
+Help Is Available For Those Experiencing Abuse.
+</p>
+<p>
+Reaching Out Can Be The First Step Toward Safety.
+</p>
+<ul>
+    <li>Trusted Adults</li>
+    <li>Counselors</li>
+    <li>Local Helplines</li>
+</ul>
+<img src="https://tse3.mm.bing.net/th/id/OIP.NgAUSFwfwvO5Bg9TuKQIZQHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="300">
+<p><em>Support Resources.</em></p>
+<hr>
+<strong>This Wiki Was Created By Astro</strong>
+</body>
+</html>
